@@ -1,2 +1,2 @@
 # Bank-Management-System
-An attempt of creating a mini bank management syste in C.
+An attempt of creating a mini bank management system in C.
